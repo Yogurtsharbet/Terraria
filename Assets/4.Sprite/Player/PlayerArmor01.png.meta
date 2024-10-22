@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: b4f887c3ea64ffb469896e9b388aacc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7985869548095219302
+    second: PlayerArmor01_0
+  - first:
+      213: 2870861989001046324
+    second: PlayerArmor01_1
+  - first:
+      213: -8207841233029887768
+    second: PlayerArmor01_2
+  - first:
+      213: 4058354939783996546
+    second: PlayerArmor01_3
+  - first:
+      213: -6172592014882358626
+    second: PlayerArmor01_4
+  - first:
+      213: -3403099216769338448
+    second: PlayerArmor01_5
+  - first:
+      213: 6477024138174614083
+    second: PlayerArmor01_6
+  - first:
+      213: 6232369298204201208
+    second: PlayerArmor01_7
+  - first:
+      213: 3735223531105997171
+    second: PlayerArmor01_8
+  - first:
+      213: 7480862968501738041
+    second: PlayerArmor01_9
+  - first:
+      213: -2329165577810301904
+    second: PlayerArmor01_10
+  - first:
+      213: 7425693505471676476
+    second: PlayerArmor01_11
+  - first:
+      213: -4739255713163151856
+    second: PlayerArmor01_12
+  - first:
+      213: 7469590328555764343
+    second: PlayerArmor01_13
+  - first:
+      213: 3678213394531127911
+    second: PlayerArmor01_14
+  - first:
+      213: 3244253259002030113
+    second: PlayerArmor01_15
+  - first:
+      213: 6762379556106081051
+    second: PlayerArmor01_16
+  - first:
+      213: 7973833201483662598
+    second: PlayerArmor01_17
+  - first:
+      213: -8239093996866086705
+    second: PlayerArmor01_18
+  - first:
+      213: -1488664157026217540
+    second: PlayerArmor01_19
+  - first:
+      213: 6383213150753237870
+    second: PlayerArmor01_20
+  - first:
+      213: -6845371887478462218
+    second: PlayerArmor01_21
+  - first:
+      213: 4522177782708768348
+    second: PlayerArmor01_22
+  - first:
+      213: 3192928506239530601
+    second: PlayerArmor01_23
+  - first:
+      213: -8049218263545082887
+    second: PlayerArmor01_24
+  - first:
+      213: 328883708437904486
+    second: PlayerArmor01_25
+  - first:
+      213: -7357347509825369643
+    second: PlayerArmor01_26
+  - first:
+      213: 7711238765771766375
+    second: PlayerArmor01_27
+  - first:
+      213: 4932941082557842196
+    second: PlayerArmor01_28
+  - first:
+      213: -1376477334566061219
+    second: PlayerArmor01_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerArmor01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66623d40b0283de60800000000000000
+      internalID: 7985869548095219302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439249db4c957d720800000000000000
+      internalID: 2870861989001046324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80374b2e3e71e80800000000000000
+      internalID: -8207841233029887768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e64ec05c225830800000000000000
+      internalID: 4058354939783996546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3689244c865aa0800000000000000
+      internalID: -6172592014882358626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bd01fa43c5c0d0800000000000000
+      internalID: -3403099216769338448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a478d032303e950800000000000000
+      internalID: 6477024138174614083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f013803bd2dd7650800000000000000
+      internalID: 6232369298204201208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 169
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d040f20e26d330800000000000000
+      internalID: 3735223531105997171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9bea0c3d51d760800000000000000
+      internalID: 7480862968501738041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cac875f342dafd0800000000000000
+      internalID: -2329165577810301904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30809476ec5d0760800000000000000
+      internalID: 7425693505471676476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0167b2dd908ca3eb0800000000000000
+      internalID: -4739255713163151856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a724704d059a760800000000000000
+      internalID: 7469590328555764343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629c152893ab0330800000000000000
+      internalID: 3678213394531127911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 113
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12828387627e50d20800000000000000
+      internalID: 3244253259002030113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13111ea06cc8dd50800000000000000
+      internalID: 6762379556106081051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60546a0bc0fb8ae60800000000000000
+      internalID: 7973833201483662598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc85eb599abd8ad80800000000000000
+      internalID: -8239093996866086705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1989226d3375be0800000000000000
+      internalID: -1488664157026217540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6baf387a8ab59850800000000000000
+      internalID: 6383213150753237870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a663698a5001a0800000000000000
+      internalID: -6845371887478462218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 57
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e058ddbb002ce30800000000000000
+      internalID: 4522177782708768348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96630af3f8f8f4c20800000000000000
+      internalID: 3192928506239530601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb0fc9c2ae6b4090800000000000000
+      internalID: -8049218263545082887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbad58dfd609400800000000000000
+      internalID: 328883708437904486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d901c3bb6375e990800000000000000
+      internalID: -7357347509825369643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3c043dc2d30b60800000000000000
+      internalID: 7711238765771766375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138acb57c3557440800000000000000
+      internalID: 4932941082557842196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArmor01_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b30d73825c5ece0800000000000000
+      internalID: -1376477334566061219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
